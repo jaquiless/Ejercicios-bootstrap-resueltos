@@ -1,0 +1,15 @@
+$primary: rebeccapurple;
+$secondary: orange;
+$success: pink;
+$info: greenyellow;
+$warning: red;
+$danger: blue;
+$light: rgb(11, 207, 246);
+$dark: beige;
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "./node_modules/bootstrap/scss/mixins";
+
+
