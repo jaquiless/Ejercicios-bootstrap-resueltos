@@ -1,0 +1,34 @@
+
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "./node_modules/bootstrap/scss/mixins";
+
+
+div{
+    border: 5px solid white
+}
+.verde{
+    background-color: greenyellow;
+    height: 80px;
+}
+.rojo{
+    background-color: red;
+}
+.rosa{
+    background-color: pink;
+    height: 80px;
+}
+.naranja{
+    background-color: orange;
+    height: 150px;
+}
+.azul{
+    background-color: blue;
+    height: 80px;
+}
+.roja{
+    background-color: red;
+    height: 80px;
+}
